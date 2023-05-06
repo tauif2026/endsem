@@ -4,9 +4,7 @@
 
 fd.io (Fast Data Input/Output) is an open-source software platform for high-performance networking. It provides a collection of libraries and services to build and run high-performance, scalable and flexible networking solutions. The project focuses on software-defined networking (SDN) and network functions virtualization (NFV) and aims to provide a vendor-neutral, high-performance, I/O optimized data plane. It is part of the larger Linux Foundation networking initiative.
 
-  
-
-**Project Summary**
+  **Project Summary**
 
 |Website| fd.io |
 
@@ -24,13 +22,10 @@ fd.io (Fast Data Input/Output) is an open-source software platform for high-perf
 
   
 
-  
-
-**Key features**
+  **Key features**
 
   
-
-· High performance: fd.io provides high-performance networking capabilities and is optimized for fast data I/O.
+ High performance: fd.io provides high-performance networking capabilities and is optimized for fast data I/O.
 
   
 
